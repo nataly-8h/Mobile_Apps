@@ -1,10 +1,57 @@
 [
-    {'name':'Nataly', 'hobby':'Dibujar', 'edad':20,'telefono': 123555,'direccion':'Xochimilco #40'},
-    {'name':'Ari', 'hobby':'DnD', 'edad':20,'telefono': 456123,'direccion':'Acacias #54'},
-    {'name':'Hugo', 'hobby':'Violin', 'edad':21,'telefono': 222555,'direccion':'Diciembre #21'},
-    {'name':'Memo', 'hobby':'Tennis', 'edad':20,'telefono': 333555,'direccion':'Buenos Aires #24'},
-    {'name':'Reynaldo', 'hobby':'Videojuegos', 'edad':21,'telefono': 444555,'direccion':'Chilpancingo #33'},
-    {'name':'Hector', 'hobby':'Leer', 'edad':20,'telefono': 111555,'direccion':'Insurgentes #12'},
-    {'name':'Garabito', 'hobby':'Anime y gatos', 'edad':20,'telefono': 555555,'direccion':'Jacarandas #35'}
-    {'name':'Agus', 'hobby':'Web dev', 'edad':20,'telefono': 555555,'direccion':'Peras #75'}
+   {
+      "name":"Nataly",
+      "hobby":"Dibujar",
+      "edad":20,
+      "telefono":123555,
+      "direccion":"Xochimilco #40"
+   },
+   {
+      "name":"Ari",
+      "hobby":"DnD",
+      "edad":20,
+      "telefono":456123,
+      "direccion":"Acacias #54"
+   },
+   {
+      "name":"Hugo",
+      "hobby":"Violin",
+      "edad":21,
+      "telefono":222555,
+      "direccion":"Diciembre #21"
+   },
+   {
+      "name":"Memo",
+      "hobby":"Tennis",
+      "edad":20,
+      "telefono":333555,
+      "direccion":"Buenos Aires #24"
+   },
+   {
+      "name":"Reynaldo",
+      "hobby":"Videojuegos",
+      "edad":21,
+      "telefono":444555,
+      "direccion":"Chilpancingo #33"
+   },
+   {
+      "name":"Hector",
+      "hobby":"Leer",
+      "edad":20,
+      "telefono":111555,
+      "direccion":"Insurgentes #12"
+   },
+   {
+      "name":"Garabito",
+      "hobby":"Anime y gatos",
+      "edad":20,
+      "telefono":555555,
+      "direccion":"Jacarandas #35"
+   }{
+      "name":"Agus",
+      "hobby":"Web dev",
+      "edad":20,
+      "telefono":555555,
+      "direccion":"Peras #75"
+   }
 ]
