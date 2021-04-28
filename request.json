@@ -47,8 +47,7 @@
       "edad":20,
       "telefono":555555,
       "direccion":"Jacarandas #35"
-   },
-   {
+   },{
       "name":"Agus",
       "hobby":"Web dev",
       "edad":20,
